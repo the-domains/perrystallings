@@ -1,0 +1,28 @@
+name: perrystallings
+favicon: null
+layout_spectrum: 0.5997749578673393
+typography_spectrum: 0.6857835478149354
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.34763286309316754
+  lightness: 0.3562237727455795
+  saturation: 0.23977144667878747
+  rhythmicContrast: 0.2585198520682752
+purpose: []
